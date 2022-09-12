@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Fabioetal2013}
+D.~R. Fabio, D.~Fabio, P.~Carlo, Profiling core-periphery network structure by
+  random walkers, Sci. Rep. 3 (2013) 1467.
+
+\bibitem{Blondeletal2008}
+V.~D. Blondel, J.~L. Guillaume, R.~Lambiotte, E.~Lefebvre, Fast unfolding of
+  communities in large networks, J. Stat. Mech.-Theory Exp. 2008 (2008) P10008.
+
+\bibitem{FabricioLiang2013}
+B.~Fabricio, Z.~Liang, Fuzzy community structure detection by particle
+  competition and cooperation, Soft Comput. 17 (2013) 659--673.
+
+\end{thebibliography}
